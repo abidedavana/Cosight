@@ -35,7 +35,7 @@ A lightweight, **serverless cost analytics tool** inspired by AWS Cost Explorer 
 
 ---
 
-## 📂 Architecture
+Architecture
 
 ```mermaid
 graph TD
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-## 📦 Installation & Setup
+Installation & Setup
 
 1. **Clone the Repository**
 
@@ -75,7 +75,7 @@ cdk deploy
 
 ---
 
-## 📸 Screenshots
+Screenshots
 
 *(Add your screenshots here once ready)*
 
