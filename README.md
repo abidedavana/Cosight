@@ -96,7 +96,4 @@ This dashboard is designed to **showcase practical AWS, DevOps, and frontend ski
 
 MIT License — feel free to use and modify.
 
----
 
-If you want, I can also prepare **fake but realistic AWS billing CSV data** so your charts look real even without actual AWS usage.
-That way, your demo looks authentic and professional when you show it to Bayut & Dubizzle.
