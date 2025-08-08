@@ -83,7 +83,7 @@ Screenshots
 
 ## Why This Project?
 
-This dashboard is designed to **showcase practical AWS, DevOps, and frontend skills** in a **short, 3-day build**. It’s ideal for internship portfolios, as it:
+This dashboard is designed to **showcase practical AWS, DevOps, and frontend skills** :
 
 * Demonstrates **microservice separation**
 * Uses **modern frontend + cloud hosting**
