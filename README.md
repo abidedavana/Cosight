@@ -35,7 +35,7 @@ A lightweight, **serverless cost analytics tool** inspired by AWS Cost Explorer 
 
 ---
 
-Architecture
+## Architecture
 
 ```mermaid
 graph TD
@@ -46,7 +46,7 @@ graph TD
 
 ---
 
-Installation & Setup
+## Installation & Setup
 
 1. **Clone the Repository**
 
@@ -81,7 +81,7 @@ Screenshots
 
 ---
 
-##Why This Project?
+## Why This Project?
 
 This dashboard is designed to **showcase practical AWS, DevOps, and frontend skills** in a **short, 3-day build**. It’s ideal for internship portfolios, as it:
 
@@ -92,7 +92,7 @@ This dashboard is designed to **showcase practical AWS, DevOps, and frontend ski
 
 ---
 
-##License
+## License
 
 MIT License — feel free to use and modify.
 
